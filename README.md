@@ -22,11 +22,6 @@ Este repositório contém a solução para o desafio Decodificador de Texto, par
 ![image](https://github.com/user-attachments/assets/65e5e21c-c854-4b4d-80c8-5e47b8a54ae0)
 
 
-### rodapé ou "footer":
-![image](https://github.com/user-attachments/assets/8680676f-98f0-4d17-a7f8-eb4bfe0bb260)
-
-
-
 
 ## Instruções de Uso:
 
